@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "801690271362",
+    "project_id": "gcmpushnotifier"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801690271362:android:fa3fe616330465e2",
+        "android_client_info": {
+          "package_name": "com.pushnotification.gcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiaeVijetBAeVL-IKiyi71s3e4AGXxnJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
